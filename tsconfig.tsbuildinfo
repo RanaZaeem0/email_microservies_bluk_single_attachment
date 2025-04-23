@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/config/index.ts","./src/config/queue.ts","./src/controller/sendpassword.ts","./src/db/db.ts","./src/middleware/middleware.ts","./src/nodemailer/index.ts","./src/route/email/index.ts","./src/services/emailservies.ts","./src/services/emailworker.ts","./src/type/zod.ts","./src/utils/priority.ts"],"version":"5.7.2"}
