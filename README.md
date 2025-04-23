@@ -1,0 +1,2 @@
+# email_microservies_bluk_single_attachment
+email_microservies_bluk_single_attachment
