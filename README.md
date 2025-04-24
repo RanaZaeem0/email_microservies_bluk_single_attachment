@@ -49,7 +49,7 @@ While Redis's native LPUSH and BRPOP commands can be used to create a basic queu
 
 ### Prerequisites
 
-- Node.js (v14+)
+- Node.js (v22+)
 - Redis (v5+)
 - Docker and Docker Compose (optional)
 
